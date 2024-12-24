@@ -1,5 +1,5 @@
 
-<h1>Hello  I'm Adolfo Chavez & Welcome To My Github
+<h1>Hello, I'm Adolfo Chavez & Welcome To My Github
   
   <br> I am a Cybersecurity Student At UC Irvine :) </a>
   
