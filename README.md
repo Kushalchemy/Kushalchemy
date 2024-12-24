@@ -1,8 +1,9 @@
 
-<h1>Hi, I'm Adolfo Chavez!
+<h1>Hello  I'm Adolfo Chavez & Welcome To My Github
   
-  Cybersecurity Student</a>
-    
+  <br> I am a Cybersecurity Student At UC Irvine :) </a>
+  
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
