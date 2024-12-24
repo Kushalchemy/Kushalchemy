@@ -8,7 +8,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Linux System Hardening </b>
-  - [System Hardening & User Group Administration](https://github.com/Kushalchemy/Linux-System-Hardening-Project)
+  - [Linux System Hardening and Automation Project](https://github.com/Kushalchemy/Linux-System-Hardening-Project)
 
 
 
