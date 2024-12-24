@@ -20,7 +20,7 @@
 [linkedin]: https://www.linkedin.com/in/adolfo-chavez-830a41289/
 <b> </b>
 
-[Linkedin]( https://www.linkedin.com/in/adolfo-chavez-830a41289/)
+[https://www.linkedin.com/in/adolfo-chavez-830a41289]( https://www.linkedin.com/in/adolfo-chavez-830a41289/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
