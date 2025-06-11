@@ -1,7 +1,7 @@
 
 <h1>Hello, I am Adolfo G. Chavez & Welcome To My Github
   
-  <br> I am anInformation Security Student  :) 
+  <br> I am an Information Security Student  :) 
   
 
 
